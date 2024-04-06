@@ -25,6 +25,7 @@ body {
   margin: 5px;
   font-family: monospace;
   font-weight: bolder;
+  color: #b06ab3;
 }
 
 .calculator-grid > button:hover,
